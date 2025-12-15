@@ -1,0 +1,5 @@
+
+Hello, World!
+File 'hello.txt' created with content 'Hello, World!'
+This is a sample Python script.
+It demonstrates basic file operations and print statements.

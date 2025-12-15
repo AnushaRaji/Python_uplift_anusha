@@ -1,0 +1,6 @@
+ERROR: Disk full
+WARNING: High memory usage
+INFO: System rebooted
+ERROR: Failed to load module
+INFO: Update completed
+WARNING: Low battery
