@@ -1,0 +1,50 @@
+=== STUDENT GRADE REPORT ===
+
+Student: Alice (ID: S001)
+  Test Average: 86.25
+  Project Average: 91.5
+  Attendance: 90.0%
+  Final Score: 88.12
+  Letter Grade: B
+
+Student: Bob (ID: S002)
+  Test Average: 85.75
+  Project Average: 82.5
+  Attendance: 95.0%
+  Final Score: 86.32
+  Letter Grade: B
+
+Student: Charlie (ID: S003)
+  Test Average: 77.5
+  Project Average: 72.5
+  Attendance: 85.0%
+  Final Score: 77.38
+  Letter Grade: C
+
+Student: David (ID: S004)
+  Test Average: 89.0
+  Project Average: 87.5
+  Attendance: 92.0%
+  Final Score: 89.08
+  Letter Grade: B
+
+Student: Eve (ID: S005)
+  Test Average: 90.4
+  Project Average: 90.0
+  Attendance: 88.0%
+  Final Score: 89.94
+  Letter Grade: B
+
+Student: Frank (ID: S006)
+  Test Average: 78.8
+  Project Average: 79.0
+  Attendance: 91.0%
+  Final Score: 80.68
+  Letter Grade: B
+
+Class Statistics:
+  Class Average: 85.25
+  Top 3: Eve (89.94), David (89.08), Alice (88.12)
+  At Risk: None
+
+  
